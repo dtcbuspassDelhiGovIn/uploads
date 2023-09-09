@@ -1,3 +1,3 @@
 # main file is image2.js
 
-# using sign1.jpeg 
+# using sign2.jpeg 
